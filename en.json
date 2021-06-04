@@ -273,5 +273,7 @@
 
     "level": "Level",
     "gained_xp": "You gained %s XP!",
-    "leveled_up": "You leveled up to level %s!"
+    "leveled_up": "You leveled up to level %s!",
+
+    "press_to_loot_zombie": "Press %s to loot the zombie"
 }
