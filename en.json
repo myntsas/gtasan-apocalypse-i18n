@@ -275,5 +275,8 @@
     "gained_xp": "You gained %s XP!",
     "leveled_up": "You leveled up to level %s!",
 
-    "press_to_loot_zombie": "Press %s to loot the zombie"
+    "press_to_loot_zombie": "Press %s to loot the zombie",
+
+    "weapon_ammo": "This weapon has %s ammo",
+    "vehicle_health": "This vehicle's health is at %s"
 }

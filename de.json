@@ -275,5 +275,8 @@
     "gained_xp": "Du hast %s XP erhalten!",
     "leveled_up": "Du bist auf Level %s hochgelevelt!",
 
-    "press_to_loot_zombie": "Drücke %s um den Zombie zu looten"
+    "press_to_loot_zombie": "Drücke %s um den Zombie zu looten",
+
+    "weapon_ammo": "Diese Waffe hat %s Munition",
+    "vehicle_health": "Die Konstitution dieses Fahrzeuges ist bei %s"
 }
