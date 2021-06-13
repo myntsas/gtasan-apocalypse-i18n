@@ -118,6 +118,13 @@
     "component": "Component %s",
     "component_variation": "Component %s Variation",
 
+    "money": "Money",
+    "bandage": "Bandage",
+    "medkit": "Medkit",
+    "kevlar": "Kevlar",
+    "backup_wheels": "Backup Wheels",
+    "repair_kit": "Repair Kit",
+
     "weapon_dagger": "Dagger",
     "weapon_bat": "Baseball Bat",
     "weapon_bottle": "Broken Bottle",

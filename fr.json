@@ -117,6 +117,13 @@
 
     "component": "Composant %s",
     "component_variation": "Variation du composant %s",
+
+    "money": "Argent",
+    "bandage": "Bandage",
+    "medkit": "Kit de soin",
+    "kevlar": "Kevlar",
+    "backup_wheels": "Roues de secours",
+    "repair_kit": "Kit de réparation",
     
     "weapon_dagger": "Dague antique",
     "weapon_bat": "Batte de baseball",

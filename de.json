@@ -118,6 +118,13 @@
     "component": "Komponente %s",
     "component_variation": "Komponente %s Variationen",
 
+    "money": "Geld",
+    "bandage": "Verband",
+    "medkit": "Verbandskasten",
+    "kevlar": "Schutzweste",
+    "backup_wheels": "Ersatzreifen",
+    "repair_kit": "Reperatursatz",
+
     "weapon_dagger": "Dolch",
     "weapon_bat": "Baseballschläger",
     "weapon_bottle": "Zerbrochene Flasche",
