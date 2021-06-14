@@ -124,6 +124,7 @@
     "kevlar": "Kevlar",
     "backup_wheels": "Backup Wheels",
     "repair_kit": "Repair Kit",
+    "spike_strip": "Spike Strip",
 
     "weapon_dagger": "Dagger",
     "weapon_bat": "Baseball Bat",
@@ -233,6 +234,7 @@
     "weapon_hazardcan": "Hazardous Jerry Can",
 
     "press_to_open": "Press %s to open",
+    "press_to_interact": "Press %s to interact",
     "ground_bag": "Ground Bag",
 
     "container": "Safe Container",

@@ -124,6 +124,7 @@
     "kevlar": "Kevlar",
     "backup_wheels": "Roues de secours",
     "repair_kit": "Kit de réparation",
+    "spike_strip": "Herse",
     
     "weapon_dagger": "Dague antique",
     "weapon_bat": "Batte de baseball",
@@ -233,6 +234,7 @@
     "weapon_hazardcan": "Bidon d'essence dangereuse",
 
     "press_to_open": "Appuyez sur %s pour ouvrir",
+    "press_to_interact": "Appuyez sur %s pour intéragir",
     "ground_bag": "Sac au sol",
 
     "container": "Contenaire Protégé",

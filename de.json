@@ -124,6 +124,7 @@
     "kevlar": "Schutzweste",
     "backup_wheels": "Ersatzreifen",
     "repair_kit": "Reperatursatz",
+    "spike_strip": "Nagelsperre",
 
     "weapon_dagger": "Dolch",
     "weapon_bat": "Baseballschläger",
@@ -233,6 +234,7 @@
     "weapon_hazardcan": "Gefährlicher Kanister",
 
     "press_to_open": "Drücke %s zum Öffnen",
+    "press_to_interact": "Drücke %s zum interagieren",
     "ground_bag": "Bodenbeutel",
 
     "container": "Container",
