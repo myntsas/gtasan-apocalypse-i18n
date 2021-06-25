@@ -118,6 +118,7 @@
     "component": "Component %s",
     "component_variation": "Component %s Variation",
 
+    "nothing": "nothing",
     "money": "Money",
     "bandage": "Bandage",
     "medkit": "Medkit",
@@ -285,6 +286,7 @@
     "leveled_up": "You leveled up to level %s!",
 
     "press_to_loot_zombie": "Press %s to loot the zombie",
+    "you_found": "You found %s!",
 
     "weapon_ammo": "This weapon has %s ammo",
     "vehicle_health": "This vehicle's health is at %s"
