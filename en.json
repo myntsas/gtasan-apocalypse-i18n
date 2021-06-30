@@ -127,6 +127,9 @@
     "repair_kit": "Repair Kit",
     "spike_strip": "Spike Strip",
 
+    "no_customizable_weapons": "You don't have any customizable weapons!",
+    "no_customizable_vehicles": "You don't have any customizable vehicles!",
+
     "weapon_dagger": "Dagger",
     "weapon_bat": "Baseball Bat",
     "weapon_bottle": "Broken Bottle",

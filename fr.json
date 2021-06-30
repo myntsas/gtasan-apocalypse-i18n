@@ -126,7 +126,10 @@
     "backup_wheels": "Roues de secours",
     "repair_kit": "Kit de réparation",
     "spike_strip": "Herse",
-    
+
+    "no_customizable_weapons": "Vous n'avez pas d'armes customisables!",
+    "no_customizable_vehicles": "Vous n'avez pas de véhicules customisables!",
+
     "weapon_dagger": "Dague antique",
     "weapon_bat": "Batte de baseball",
     "weapon_bottle": "Bouteille cassée",
