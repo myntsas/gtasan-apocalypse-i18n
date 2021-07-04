@@ -252,6 +252,7 @@
 
     "error": "An error occured! (%s)",
     "cannot_move_items_while_dead": "You cannot move items while you are dead!",
+    "cannot_move_items_while_in_combat": "You cannot move items while you are in combat!",
     "not_enough_room": "There is not enough room for this item!",
     "first_unequip_item": "You need to first unequip this item!",
     "cannot_spawn_vehicle_here": "You cannot spawn a vehicle here!",

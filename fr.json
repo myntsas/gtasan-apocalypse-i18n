@@ -252,6 +252,7 @@
 
     "error": "Une erreur est survenue! (%s)",
     "cannot_move_items_while_dead": "Vous ne pouvez pas déplacer d'objets en étant mort!",
+    "cannot_move_items_while_in_combat": "Vous ne pouvez pas déplacer d'objets lors d'un combat!",
     "not_enough_room": "Il n'y a pas assez de place pour cet objet!",
     "first_unequip_item": "Vous devez d'abord déséquiper cet objet!",
     "cannot_spawn_vehicle_here": "Vous ne pouvez pas sortir de véhicule ici!",
