@@ -377,5 +377,7 @@
     "you_found": "You found %s!",
 
     "weapon_ammo": "This weapon has %s ammo",
-    "vehicle_health": "This vehicle's health is at %s"
+    "vehicle_health": "This vehicle's health is at %s",
+
+    "airdrop_start": "An airdrop is coming, check your map!"
 }

@@ -377,5 +377,7 @@
     "you_found": "Vous avez trouvé %s!",
 
     "weapon_ammo": "Cette arme a  %s balle(s)",
-    "vehicle_health": "La vie de ce véhicule est à %s"
+    "vehicle_health": "La vie de ce véhicule est à %s",
+
+    "airdrop_start": "Un colis est en approche, regardez votre carte!"
 }
