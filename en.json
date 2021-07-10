@@ -241,6 +241,16 @@
     "weapon_fireextinguisher": "Fire Extinguisher",
     "weapon_hazardcan": "Hazardous Jerry Can",
 
+    "ammo_pistol": "Pistol Ammo",
+    "ammo_smg": "SMG Ammo",
+    "ammo_rifle": "Rifle Ammo",
+    "ammo_lmg": "LMG Ammo",
+    "ammo_sniper": "Sniper Ammo",
+    "ammo_launcher": "Launcher Ammo",
+    "incompatible_ammo": "You cannot load this type of ammo in %s!",
+    "already_max_ammo": "This weapon is already full ammo!",
+    "loaded_ammo": "Loaded %s ammos into your %s!",
+
     "lscustom": "LS Custom",
     "customize_vehicles": "Customize Vehicles",
     "mods": "Modifications",

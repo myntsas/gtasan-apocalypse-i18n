@@ -241,6 +241,16 @@
     "weapon_fireextinguisher": "Extincteur",
     "weapon_hazardcan": "Bidon d'essence dangereuse",
 
+    "ammo_pistol": "Munitions de Pistolet",
+    "ammo_smg": "Munitions Pistol-Mitrailleur",
+    "ammo_rifle": "Munitions Fusil",
+    "ammo_lmg": "Munitions Mitralleuse Légère",
+    "ammo_sniper": "Munitions Sniper",
+    "ammo_launcher": "Munitions Lanceur",
+    "incompatible_ammo": "Vous ne pouvez pas charger un(e) %s avec ce type de munitions!",
+    "already_max_ammo": "Cette arme ne peut pas accepter plus de munitions!",
+    "loaded_ammo": "Vous avez chargé %s munitions dans votre %s!",
+
     "lscustom": "LS Custom",
     "customize_vehicles": "Customisation de Véhicules",
     "mods": "Modifications",
